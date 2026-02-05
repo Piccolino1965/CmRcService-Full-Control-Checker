@@ -1,0 +1,24 @@
+## Disclaimer
+
+This software is provided **for informational, auditing, and defensive purposes only**.
+
+The CmRcService Full Control Checker is designed to help system administrators, security teams, auditors, and compliance officers **understand and document** how Microsoft Endpoint Configuration Manager (MECM/SCCM) Remote Control is being used on a Windows system, based on existing client-side logs.
+
+It **does not bypass security controls**, does not enable surveillance, and does not perform any remote access or monitoring activities by itself.  
+It only reads log files that already exist on the system.
+
+The author assumes **no responsibility** for any misuse of this tool, including but not limited to:
+- Use without proper authorization
+- Use in violation of local laws, labor regulations, or internal company policies
+- Use for employee surveillance or disciplinary purposes without a valid legal and organizational framework
+
+Before using this tool, ensure that:
+- You are authorized to access the target system and its logs
+- The use of log analysis complies with applicable laws (e.g. labor law, privacy regulations, GDPR)
+- The activity is aligned with internal governance, security, and compliance policies
+
+By using this software, you acknowledge that **responsibility for its use lies entirely with the user**.
+
+This project is published for transparency, technical understanding, and accountability.
+
+Project reference: www.aiutocomputerhelp.it
